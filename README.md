@@ -1,5 +1,6 @@
 # Case Study
 
+## Problem Statement
 In this scenario a Retailer VP of Store Assortment & Shelfing and a Retailer VP that works with Merchants of
 Packaged Goods have presented you a sample data set. The VP is an individual who is adept in statistics and knows how
 to leverage advanced insights to drive strategy and success in store who trusts in your ability driven from past experience
@@ -14,7 +15,14 @@ to understand which has velocity, and where there could be future success so the
 mix to their customers while optimizing the returns through operational efficacy on-shelf. The leadership team is open to
 any additional insights within the dataset that you think will help them create a best in market outcome
 
-# Results
+## Power Point Results
 
-[Power Point Results](/powerPoint/Case%20Study.pptx)
+[Resuts for Case Study](/powerPoint/Case%20Study.pptx)
 
+
+## Recommendations 
+
+1. Top Brand – velocity is greater for Joplin, sales are greater in Columbia
+1. two small cities – very little product
+1. Best substitution is Pampers and Huggies for the top cities
+1. Next price elasticity to see best assortment
